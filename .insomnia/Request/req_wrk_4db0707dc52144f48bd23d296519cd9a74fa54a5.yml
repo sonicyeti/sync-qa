@@ -1,0 +1,21 @@
+_id: req_wrk_4db0707dc52144f48bd23d296519cd9a74fa54a5
+type: Request
+parentId: wrk_4db0707dc52144f48bd23d296519cd9a
+modified: 1617293993376
+created: 1617293993376
+url: "{{ base_url }}/pet"
+name: Testing a plugin
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1617293993376
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
